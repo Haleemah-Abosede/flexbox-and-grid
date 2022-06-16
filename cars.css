@@ -85,18 +85,17 @@ header{
 }
 header p{
      margin: 10px;
-     border: 1px solin thin darkslateblue;
-     border-radius: 20px;
-     width: 10%;
+     text-transform: uppercase;
      padding: 20px;
-     background-color: hsl(248, 26%, 35%);
-    
-
+     font-size: 17px;
 }
 
   header a{
     text-decoration: none;
-   color: blanchedalmond;
+   color: hsl(189, 87%, 12%);
+}
+header a:hover, header a:active{
+    font-size: 25px;
 }
 
  .sedan  button{
